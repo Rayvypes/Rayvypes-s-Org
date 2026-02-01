@@ -1,0 +1,8 @@
+{
+  "name": "CinePrime",
+  "description": "The ultimate destination for Ugandan films, actors, directors, and industry news. Discover the vibrant world of Pearl of Africa cinema on CinePrime.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
